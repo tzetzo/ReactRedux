@@ -1,5 +1,5 @@
 import { configureStore } from "@reduxjs/toolkit";
-import { usersReducer} from "./slices/usersSlice";
+import { usersReducer } from "./slices/usersSlice";
 
 export const store = configureStore({
   reducer: {
@@ -7,3 +7,4 @@ export const store = configureStore({
   },
 });
 
+export * from './thunks/fetchUsers';

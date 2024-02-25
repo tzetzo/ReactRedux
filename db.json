@@ -3,8 +3,67 @@
     {
       "id": "1",
       "name": "Myra"
+    },
+    {
+      "id": "1ea8",
+      "name": "Clinton Block"
+    },
+    {
+      "id": "56ba",
+      "name": "Chris Goodwin PhD"
+    },
+    {
+      "id": "97a5",
+      "name": "Naomi Abernathy V"
     }
   ],
-  "albums": [],
-  "photos": []
+  "albums": [
+    {
+      "id": "2c43",
+      "title": "Gorgeous Wooden Mouse",
+      "userId": "1"
+    },
+    {
+      "id": "a33b",
+      "title": "Awesome Rubber Hat",
+      "userId": "1ea8"
+    },
+    {
+      "id": "67f7",
+      "title": "Handmade Rubber Ball",
+      "userId": "56ba"
+    },
+    {
+      "id": "1028",
+      "title": "Handmade Wooden Chair",
+      "userId": "56ba"
+    },
+    {
+      "id": "091f",
+      "title": "Practical Granite Sausages",
+      "userId": "1"
+    },
+    {
+      "id": "7472",
+      "title": "Practical Plastic Mouse",
+      "userId": "56ba"
+    }
+  ],
+  "photos": [
+    {
+      "id": "27ef",
+      "url": "https://loremflickr.com/150/150/abstract?lock=4675685654200320",
+      "albumId": "2c43"
+    },
+    {
+      "id": "21c5",
+      "url": "https://loremflickr.com/150/150/abstract?lock=8566676157104128",
+      "albumId": "2c43"
+    },
+    {
+      "id": "116b",
+      "url": "https://loremflickr.com/150/150/abstract?lock=707353022300160",
+      "albumId": "a33b"
+    }
+  ]
 }
